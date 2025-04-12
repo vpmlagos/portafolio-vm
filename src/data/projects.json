@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Plataforma de reservas",
+    "description": "Plataforma de reserva de citas médicas",
+    "image": "https://serviciodesaludnuble.cl/portal/wp-content/uploads/2025/04/Unidad-Tratamientos-Ataques-Cerebrovasculares-2000x1500.jpeg",
+    "liveUrl": "http://localhost:3001/",
+    "githubUrl": "https://github.com/vpmlagos/m6-laboratorio-2",
+    "tags": ["React", "Javascript"]
+  }
+]
